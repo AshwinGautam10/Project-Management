@@ -1,75 +1,64 @@
-<div align="center">
-  <h1><img src="https://project-management-gs.vercel.app/favicon.ico" width="20" height="20" alt="project-management Favicon">
-   project-management</h1>
-  <p>
-    An open-source project management platform built with ReactJS and Tailwind CSS.
-  </p>
-  <p>
-    <a href="https://github.com/GreatStackDev/project-management/blob/main/LICENSE.md"><img src="https://img.shields.io/github/license/GreatStackDev/project-management?style=for-the-badge" alt="License"></a>
-    <a href="https://github.com/GreatStackDev/project-management/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge" alt="PRs Welcome"></a>
-    <a href="https://github.com/GreatStackDev/project-management/issues"><img src="https://img.shields.io/github/issues/GreatStackDev/project-management?style=for-the-badge" alt="GitHub issues"></a>
-  </p>
-</div>
+# 🚀 Project Management Dashboard  
+
+### 👨‍💻 Developed by Ashwin Gautam  
+
+A modern **Project Management Web Application** designed to manage projects, teams, and tasks efficiently in one place. Built using full-stack development concepts with a clean, responsive UI and support for both **Dark Mode & Light Mode**.
 
 ---
 
-## 📖 Table of Contents
+## 🌐 Live Demo  
 
-- [✨ Features](#-features)
-- [🛠️ Tech Stack](#-tech-stack)
-- [🚀 Getting Started](#-getting-started)
-- [🤝 Contributing](#-contributing)
-- [📜 License](#-license)
+🔗 **Try the App:**  
+https://project-management-production-cb7d.up.railway.app/
 
 ---
 
-## 📝 Features <a name="-features"></a>
+## ✨ Overview  
 
-- **Multiple Workspaces:** Allow multiple workspaces to be created, each with its own set of projects, tasks, and members.
-- **Project Management:** Manage projects, tasks, and team members.
-- **Analytics:** View project analytics, including progress, completion rate, and team size.
-- **Task Management:** Assign tasks to team members, set due dates, and track task status.
-- **User Management:** Invite team members, manage user roles, and view user activity.
+This application helps users organize their workflow by providing a centralized platform to:  
+- Manage multiple projects  
+- Track tasks and progress  
+- Collaborate with team members  
+- Analyze project performance  
 
-## 🛠️ Tech Stack <a name="-tech-stack"></a>
+The interface is designed to be **user-friendly, responsive, and visually clean**, making it easy to navigate through different sections like Dashboard, Projects, Team, and Tasks.
 
-- **Framework:** ReactJS
-- **Styling:** Tailwind CSS
-- **UI Components:** Lucide React for icons
-- **State Management:** Redux Toolkit
+---
 
-## 🚀 Getting Started <a name="-getting-started"></a>
+## 🔥 Key Features  
 
-First, install the dependencies. We recommend using `npm` for this project.
+- 📁 **Multiple Workspaces**  
+  Create and manage multiple workspaces with separate projects and teams  
 
+- 📊 **Dashboard Analytics**  
+  Visual insights like project progress, completion rate, and team size  
+
+- ✅ **Task Management**  
+  Assign tasks, set deadlines, and track status in real time  
+
+- 👥 **Team Management**  
+  Add members, assign roles, and monitor user activity  
+
+- 🌙 **Dark & Light Mode**  
+  Seamless theme switching for better user experience  
+
+- ⚡ **Real-Time UI Updates**  
+  Smooth and interactive interface with dynamic rendering  
+
+---
+
+## 🛠️ Tech Stack  
+
+- ⚛️ **Frontend:** ReactJS  
+- 🎨 **Styling:** Tailwind CSS  
+- 🧩 **UI Components:** Lucide React  
+- 🗂️ **State Management:** Redux Toolkit  
+- 🌐 **Development Type:** Full Stack (Frontend + Backend Integration Ready)
+
+---
+
+## 🚀 Getting Started  
+
+### 1️⃣ Install Dependencies  
 ```bash
 npm install
-```
-
-Then, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:5173](http://localhost:5173) with your browser to see the result.
-
-You can start editing the page by modifying `src/App.jsx`. The page auto-updates as you edit the file.
-
----
-
-## 🤝 Contributing <a name="-contributing"></a>
-
-We welcome contributions! Please see our [CONTRIBUTING.md](./CONTRIBUTING.md) for more details on how to get started.
-
----
-
-## 📜 License <a name="-license"></a>
-
-This project is licensed under the MIT License. See the [LICENSE.md](./LICENSE.md) file for details.
